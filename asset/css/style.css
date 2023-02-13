@@ -1,10 +1,11 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
 
 body {
-		background-color: #dddfeb;
-		@media (min-width: 480px) {
 		background-image: url("picture/bg.jpg");
-	}
+
+		@media (min-width: 480px) {
+		    background-image: url("picture/bg.jpg");
+		}
 	
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
