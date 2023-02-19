@@ -13,10 +13,22 @@ body {
 			body {
 				background-image: url("picture/bg.jpg");
 			}
+			.bluedark {
+				font-size: default;
+			}
+
+			.text-primary-emphasis{
+			 	font-size: default;
+			}
 		}
 
 .bluedark {
 	color: #291d89;
+	font-size: x-large;
+}
+
+.text-primary-emphasis{
+  font-size: x-large;
 }
 
 ul {
