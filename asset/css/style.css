@@ -9,24 +9,14 @@ body {
 	}
 .bluedark {
 	color: #291d89;
-	font-size: x-large;
 }
 
-.text-primary-emphasis{
-  font-size: x-large;
-}
+
 
 @media (min-width: 480px) {
 	
 			body {
 				background-image: url("picture/bg.jpg");
-			}
-			.bluedark {
-				font-size: default;
-			}
-
-			.text-primary-emphasis{
-			 	font-size: default;
 			}
 		}
 
