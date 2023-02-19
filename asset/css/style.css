@@ -7,6 +7,14 @@ body {
 		background-size: 100% 100%;
 		background-attachment: fixed;	
 	}
+.bluedark {
+	color: #291d89;
+	font-size: x-large;
+}
+
+.text-primary-emphasis{
+  font-size: x-large;
+}
 
 @media (min-width: 480px) {
 	
@@ -21,15 +29,6 @@ body {
 			 	font-size: default;
 			}
 		}
-
-.bluedark {
-	color: #291d89;
-	font-size: x-large;
-}
-
-.text-primary-emphasis{
-  font-size: x-large;
-}
 
 ul {
 	list-style: none;
